@@ -1,0 +1,8 @@
+<form>
+                <input type="search" name="q" placeholder="Buscar">
+                <input type="submit" value="�Vamos!">
+            </form>
+
+
+
+buscador
